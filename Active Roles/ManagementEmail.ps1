@@ -1,5 +1,5 @@
 #**********************************************************************
-# Author: Shane Dilling Email: 
+# Author:    Email: 
 # Purpose: This Powershell (gui) script will read the domain and
 # Report Consultants usually who are Expiring or Expired within 30days.
 # Then email to result to “All-AccountExpirationNotification@domain.com”
