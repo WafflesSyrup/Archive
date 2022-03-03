@@ -1,12 +1,8 @@
 #**********************************************************************
 #Author: Shane Dilling Email: 
-
 # Purpose: This Powershell script will read the domain and
-
 #all accounts created in 2014 start and end date
-
 #THIS SCRIPT IS PROVIDED WITHOUT WARRANTY, USE AT YOUROWN RISK **
-
 #***********************************************************************
 
 # —— File location ———–
